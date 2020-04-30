@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[` 1`] = `
+exports[`shoould return fly heors with toMatchSnapshot 1`] = `
 Array [
   Object {
     "name": "Dynaguy",
